@@ -1,7 +1,7 @@
 Hello! 
 My name is Adrian!
 
-<center>My Skills</center><br>
+<p style="text-align:center">My Skills</p>
 💻HTML5/CSS3/SCSS💻<br>
 💻Javascript/jQuery💻<br>
 💻PHP/PHP Frameworks💻<br>
