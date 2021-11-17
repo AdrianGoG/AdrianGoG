@@ -5,6 +5,7 @@
 </div>
 
 <h2 align="center">📜𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤📜</h2>
-<h3> HTML <br> CSS<br> Javascript<br> PHP</h3>
+<p>Text text text text text</p>
+<h4 align="center"> HTML |  CSS |  Javascript |  PHP</h4>
 
-<h2 align="center">𝕀𝕟 ℙ𝕣𝕠𝕘𝕣𝕖𝕤𝕤</h2>
+<h2 align="center">🔜𝕀𝕟 ℙ𝕣𝕠𝕘𝕣𝕖𝕤𝕤🔜</h2>
