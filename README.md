@@ -9,7 +9,7 @@
 
 <h2 align="center">📖𝕀𝕟 𝕡𝕣𝕠𝕘𝕣𝕖𝕤𝕤📖</h2>
 <p align="center">𝐈 𝐥𝐢𝐤𝐞 𝐭𝐨 𝐦𝐨𝐯𝐞 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰 𝐚𝐬 𝐦𝐚𝐧𝐲 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 𝐬𝐨 𝐈 𝐥𝐞𝐚𝐫𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</p>
-<h4 align="center">SCSS | React | Laravel | Python</h4><br><br><br>
+<h4 align="center">SCSS | React | Laravel | Python</h4><br><br>
 
 <h2 align="center">📈𝕄𝕪 𝕊𝕥𝕒𝕥𝕤📈</h2>
 
