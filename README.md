@@ -6,7 +6,7 @@
 <h2 align="center">📜𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤📜</h2>
 <h4 align="center"> HTML |  CSS |  Javascript |  PHP</h4><br>
 
-<h2 align="center">🔜𝕀𝕟 ℙ𝕣𝕠𝕘𝕣𝕖𝕤𝕤🔜</h2>
+<h2 align="center">📖𝕀𝕟 𝕡𝕣𝕠𝕘𝕣𝕖𝕤𝕤📖</h2>
 <h4 align="center">SCSS | React | Laravel | Python</h4><br><br><br>
 
 <h2 align="center">📈𝕄𝕪 𝕊𝕥𝕒𝕥𝕤📈</h2>
