@@ -4,16 +4,12 @@
 <img align="right" width="450" height="300" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80">
 
 <h2 align="center">📜𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤📜</h2>
-<h4 align="center"> HTML |  CSS |  Javascript |  PHP</h4>
+<h4 align="center"> HTML |  CSS |  Javascript |  PHP</h4><br>
 
 <h2 align="center">🔜𝕀𝕟 ℙ𝕣𝕠𝕘𝕣𝕖𝕤𝕤🔜</h2>
-<h4 align="center">SCSS | React | Laravel | Python</h4>
+<h4 align="center">SCSS | React | Laravel | Python</h4><br><br><br>
 
-<h2 align="center">📱𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒📱</h2>
-
- [](https://www.linkedin.com/in/adrian-gogolan-4b3217209/) | [](https://www.instagram.com/adrian_adytz/) | [](https://www.facebook.com/AdrianGoG14)
-
-<h2 align="center">𝕄𝕪 𝕊𝕥𝕒𝕥𝕤</h2>
+<h2 align="center">📈𝕄𝕪 𝕊𝕥𝕒𝕥𝕤📈</h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adriangog)](https://github.com/anuraghazra/github-readme-stats)
 
