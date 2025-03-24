@@ -1,6 +1,6 @@
 ## 👋 Bun venit pe profilul meu GitHub!
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Database+Expert" alt="Typing SVG">
 </p>
 
