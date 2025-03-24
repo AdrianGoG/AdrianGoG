@@ -5,7 +5,25 @@
 </p>
 
 ### 🛠️ Tehnologii utilizate
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+### 🛠️ Tehnologii utilizate 🧑‍💻
+
+- **Frontend**
+  - ![HTML](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+- **Backend**
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Baze de date**
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
@@ -16,11 +34,11 @@
   </tr>
   <tr>
     <td>Frontend</td>
-    <td>HTML, CSS, Bootstrap, Tailwind, JavaScript, ![React](https://img.shields.io/badge/React-v17-blue), Vue</td>
+    <td>HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Vue</td>
   </tr>
   <tr>
     <td>Backend</td>
-    <td>PHP, ![Laravel](https://img.shields.io/badge/Laravel-8.x-red), Python</td>
+    <td>PHP, Laravel, Python</td>
   </tr>
   <tr>
     <td>Baze de date</td>
