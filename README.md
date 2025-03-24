@@ -9,7 +9,7 @@
 ---
 
 ### 📊 Statistici GitHub
-<p style="display: flex; justify-content: center; gap: 10px;">
+<p style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianGoG&show_icons=true&theme=radical" alt="Statistici GitHub" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGoG&layout=compact&theme=radical" alt="Limbaje utilizate" height="180px" />
 </p>
