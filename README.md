@@ -42,6 +42,18 @@
     </p>
     </td>
   </tr>
+  <tr>
+  <td>CMS</td>
+  <td>
+    <p>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+      <img src="https://img.shields.io/badge/PrestaShop-005F6A?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop" />
+      <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" />
+      <img src="https://img.shields.io/badge/Drupal-0073B7?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
+      <img src="https://img.shields.io/badge/OpenCart-009C74?style=for-the-badge&logo=open-cart&logoColor=white" alt="OpenCart" />
+    </p>
+  </td>
+</tr>
 </table>
 
 ---
