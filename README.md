@@ -2,7 +2,7 @@
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Software+Engineer+%7C+SOON+%7CDatabase+Expert" alt="Typing SVG">
-
+<img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Road+to+Software+Engineer" alt="Typing SVG - Road to Software Engineer">
 </p>
 
 ### 🔥 Tehnologii & Stack ⚙️
