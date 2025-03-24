@@ -1,16 +1,16 @@
-## 👋 Bun venit pe profilul meu GitHub!
+## 👋 Welcome to my GitHub profile! 👋 ##
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=1200&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Database+Expert+%7C+Road+to+Software+Engineer" alt="Typing SVG - Web Developer etc.">
 
 </p>
 
-### 🔥 Tehnologii & Stack ⚙️
+### 🔥 Technologies & Stack ⚙️
 
 <table>
   <tr>
-    <th>Tip</th>
-    <th>Tehnologii</th>
+    <th>Type</th>
+    <th>Technologies</th>
   </tr>
   <tr>
     <td>Frontend</td>
@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <td>Baze de date</td>
+    <td>Databases</td>
     <td>
       <p>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Statistici GitHub
+### 📊 GitHub Statistics
 <p style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianGoG&show_icons=true&theme=radical" alt="Statistici GitHub" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGoG&layout=compact&theme=radical" alt="Limbaje utilizate" height="180px" />
@@ -60,4 +60,4 @@
 - 💼 LinkedIn: [Profilul meu](https://www.linkedin.com/in/USERNAME)
 - ✉️ Email: office@gogsoftware.ro
 
-💻 Îmi place să dezvolt aplicații web și să învăț tehnologii noi! Dacă ai un proiect interesant, nu ezita să mă contactezi. 🚀
+💻 I enjoy developing web applications and learning new technologies! If you have an interesting project, feel free to contact me. 🚀
