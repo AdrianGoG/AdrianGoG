@@ -5,6 +5,10 @@
 </p>
 
 ### 🛠️ Tehnologii utilizate
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![React](https://img.shields.io/badge/React-v17-blue)
+![Laravel](https://img.shields.io/badge/Laravel-8.x-red)
+
 <table>
   <tr>
     <th>Tip</th>
