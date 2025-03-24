@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=1200&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Database+Expert+%7C+Road+to+Software+Engineer" alt="Typing SVG - Web Developer etc.">
 </p>
 
-<h3 align="center">
-  Web Developer => Software Engineer
-</h3>
-
 ### 🔥 Technologies & Stack ⚙️
 
 <table>
