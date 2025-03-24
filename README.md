@@ -6,8 +6,9 @@
 
 ### 🔥 Tehnologii & Stack ⚙️
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+  <!-- Frontend -->
+  <div style="flex: 1 1 30%; min-width: 250px; text-align: center;">
     <h3>Frontend</h3>
     <p>
       <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -20,7 +21,8 @@
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+  <!-- Backend -->
+  <div style="flex: 1 1 30%; min-width: 250px; text-align: center;">
     <h3>Backend</h3>
     <p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -29,7 +31,8 @@
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+  <!-- Baze de date -->
+  <div style="flex: 1 1 30%; min-width: 250px; text-align: center;">
     <h3>Baze de date</h3>
     <p>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
