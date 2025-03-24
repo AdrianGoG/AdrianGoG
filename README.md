@@ -9,9 +9,9 @@
 ---
 
 ### 📊 Statistici GitHub
-![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=AdrianGoG&show_icons=true&theme=radical)
 
-![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGoG&layout=compact&theme=radical)
 
 ---
 
