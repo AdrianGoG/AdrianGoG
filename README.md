@@ -1,8 +1,7 @@
 ## 👋 Bun venit pe profilul meu GitHub!
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Software+Engineer+%7C+SOON+%7CDatabase+Expert" alt="Typing SVG"><br>
-<img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Road+to+Software+Engineer" alt="Typing SVG - Road to Software Engineer">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Road+to+Software+Engineer+%7C+Database+Expert" alt="Typing SVG - Web Developer etc.">
 </p>
 
 ### 🔥 Tehnologii & Stack ⚙️
