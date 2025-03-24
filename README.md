@@ -2,8 +2,56 @@
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=1200&lines=Web+Developer+%7C+Backend+%7C+Frontend+%7C+Database+Expert+%7C+Road+to+Software+Engineer" alt="Typing SVG - Web Developer etc.">
-
 </p>
+
+<p align="center" class="animated-text">
+  Web Developer | Software Engineer | Soon
+</p>
+
+<style>
+  .animated-text {
+    font-size: 30px;
+    font-weight: bold;
+    color: #f39c12;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 
+      2px 2px 5px rgba(0, 0, 0, 0.3), 
+      0 0 25px rgba(255, 165, 0, 0.7), 
+      0 0 50px rgba(255, 165, 0, 0.7);
+    animation: glow 1.5s ease-in-out infinite alternate, typing 3s steps(30) 1s infinite;
+    display: inline-block;
+  }
+
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes glow {
+    0% {
+      text-shadow: 
+        2px 2px 5px rgba(0, 0, 0, 0.3),
+        0 0 25px rgba(255, 165, 0, 0.7),
+        0 0 50px rgba(255, 165, 0, 0.7);
+    }
+    50% {
+      text-shadow: 
+        2px 2px 5px rgba(0, 0, 0, 0.4),
+        0 0 25px rgba(255, 165, 0, 1),
+        0 0 50px rgba(255, 165, 0, 1);
+    }
+    100% {
+      text-shadow: 
+        2px 2px 5px rgba(0, 0, 0, 0.3),
+        0 0 25px rgba(255, 165, 0, 0.7),
+        0 0 50px rgba(255, 165, 0, 0.7);
+    }
+  }
+</style>
 
 ### 🔥 Technologies & Stack ⚙️
 
