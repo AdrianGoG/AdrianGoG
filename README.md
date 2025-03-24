@@ -6,8 +6,8 @@
 
 ### 🛠️ Tehnologii utilizate
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![React](https://img.shields.io/badge/React-v17-blue)
-![Laravel](https://img.shields.io/badge/Laravel-8.x-red)
+
+
 
 <table>
   <tr>
@@ -16,11 +16,11 @@
   </tr>
   <tr>
     <td>Frontend</td>
-    <td>HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Vue</td>
+    <td>HTML, CSS, Bootstrap, Tailwind, JavaScript, ![React](https://img.shields.io/badge/React-v17-blue), Vue</td>
   </tr>
   <tr>
     <td>Backend</td>
-    <td>PHP, Laravel, Python</td>
+    <td>PHP, ![Laravel](https://img.shields.io/badge/Laravel-8.x-red), Python</td>
   </tr>
   <tr>
     <td>Baze de date</td>
