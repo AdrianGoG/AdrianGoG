@@ -63,7 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianGoG&show_icons=true&theme=radical" alt="Statistici GitHub" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGoG&layout=compact&theme=radical" alt="Limbaje utilizate" height="180px" />
 </p>
-
----
-
-💻 I enjoy developing web applications and learning new technologies! If you have an interesting project, feel free to contact me. 🚀
