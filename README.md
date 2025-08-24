@@ -66,9 +66,4 @@
 
 ---
 
-
-### 🚀 Contact
-- 💼 LinkedIn: [Profilul meu](https://www.linkedin.com/in/USERNAME)
-- ✉️ Email: office@gogsoftware.ro
-
 💻 I enjoy developing web applications and learning new technologies! If you have an interesting project, feel free to contact me. 🚀
